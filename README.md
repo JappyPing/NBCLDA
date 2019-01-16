@@ -1,6 +1,12 @@
 # NBCLDA
 A Novel approach was propsed based on the Naïve Bayesian Classifier to predict potential LncRNA–Disease Associations. 
 
+# Requirement
+MATLAB R2016a or later
+
+# Run NBCLDA to infer potential LncRNA-Disease associations 
+
+
 # Status
 Published in *Genes* DOI: https://dx.doi.org/10.3390/genes9070345
 

@@ -22,6 +22,3 @@ load MiRNAGene
 mg = MiRNAGene;
 load LncRNADisease
 ld = LncRNADisease;
-
-NBCLDA_LOOCV(ML,MD,GL,GD,mg,ld,LD,DS);
-overallauc = positiontooverallauc(LD,ld);

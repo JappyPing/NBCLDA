@@ -15,4 +15,4 @@ Published in *Genes* DOI: https://dx.doi.org/10.3390/genes9070345
 Jingwen Yu, Pengyao Ping, Lei Wang, Linai Kuang, Xueyong Li, and Zhelun Wu, 2018. ‘A Novel Probability Model for LncRNA-Disease Association Prediction Based on the Naïve Bayesian Classifier’. *Genes*, 9(7), p.345. https://doi.org/10.3390/genes9070345
 
 # Contacts
-If there are any bugs during you run our code, please email to pengyao.ping2017@gmail.com
+If there are any bugs during you run our code, please email to ping.pengyao@gmail.com
